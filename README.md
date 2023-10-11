@@ -4,11 +4,14 @@ Part 1: Driections on WebStorm
 
 Step 1: Installing and Setting Up WebStorm 
 
-1. the
-2. The
-3. The
+1. Download WebStorm by going to the website: (https://www.jetbrains.com/webstorm/download/)
+2. Using the instruction the install the applications to your device
+3. Launch WebStorm and activate it using your JetBrain account
 
 Step 2: Configuring Git on WebStorm 
+1. Launch the WebStorm application and open the project you want to work on
+2. Configure Git by going to version control. (For Mac you can do this by pressing command and , together). Make sure that the excutable path is correctly set.
+3. Configure GitHub by going to version control and add your GitHub account. 
 
 Part 2: Using Git for Version Control
 
